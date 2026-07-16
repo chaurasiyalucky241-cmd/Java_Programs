@@ -1,25 +1,22 @@
 
-<img src="https://img.shields.io/badge/Status-Active-FFB000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Updates-Regular-EE3501?style=for-the-badge"/>
-</p>div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E76F00&height=220&section=header&text=JAVA%20PROGRAMS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Learning%20%7C%20Practice%20Repository&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE3501,20:FF6A00,40:FFB000,60:F4D03F,80:F39C12,100:EE3501&height=220&section=header&text=JAVA%20PROGRAMS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Learning%20%7C%20Practice%20Repository&descAlignY=60"/>
 
 # ☕ Java Programs
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=E76F00&center=true&vCenter=true&width=900&lines=☕+Java+Programming+Repository;💻+Beginner+to+Advanced+Programs;📚+Daily+Practice+%26+Problem+Solving;🚀+Regular+Updates" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=FF8C00&center=true&vCenter=true&width=900&lines=☕+Java+Programming+Repository;💻+Beginner+to+Advanced+Programs;📚+Object-Oriented+Programming;🚀+Regular+Updates;🔥+Coding+Practice+%26+Mini+Projects" />
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active-2ECC71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Updates-Regular-27AE60?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕_Java-EE3501?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/📂_Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/📈_Status-Active-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Updates-Regular-FFB000?style=for-the-badge"/>
 </p>
 
----
-
+</div>
 # 📖 About Repository
 
 This repository contains a growing collection of **Java programs** created while learning and practicing Java.
