@@ -47,26 +47,7 @@ This repository contains a growing collection of **Java programs**, ranging from
 
 ---
 
-## 📂 Repository Structure
 
-```text
-📦 Java-Programs
-│
-├── 📁 Basics
-├── 📁 Operators
-├── 📁 Loops
-├── 📁 Methods
-├── 📁 Arrays
-├── 📁 Strings
-├── 📁 OOP
-├── 📁 Exception Handling
-├── 📁 File Handling
-├── 📁 Collections
-├── 📁 Multithreading
-├── 📁 Pattern Programs
-├── 📁 Projects
-└── README.md
-```
 
 ---
 
