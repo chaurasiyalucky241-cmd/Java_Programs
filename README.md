@@ -48,24 +48,7 @@ It includes everything from **basic syntax** to **Object-Oriented Programming (O
 
 ## 📂 Repository Structure
 
-```text
-📦 Java-Programs
-│
-├── 📁 Basics
-├── 📁 Operators
-├── 📁 Loops
-├── 📁 Arrays
-├── 📁 Strings
-├── 📁 Methods
-├── 📁 OOP
-├── 📁 Exception Handling
-├── 📁 File Handling
-├── 📁 Collections
-├── 📁 Multithreading
-├── 📁 Pattern Programs
-├── 📁 Projects
-└── README.md
-```
+
 
 ---
 
