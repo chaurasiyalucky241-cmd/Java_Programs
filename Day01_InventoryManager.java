@@ -86,10 +86,10 @@ public class Day01_InventoryManager {
                 stmt.executeUpdate();   // ← yeh missing tha, ab add kiya
             }
 
-            System.out.println("\n✅ Data MySQL mein store ho gaya");
+            System.out.println("\n Store Data  in MySQL ");
 
         } catch (SQLException e) {
-            System.out.println("❌ Database error: " + e.getMessage());
+            System.out.println(" Database error: " + e.getMessage());
         }
     }
 
