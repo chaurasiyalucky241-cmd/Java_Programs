@@ -23,8 +23,8 @@ class AccountNotFoundException extends Exception {
 
 class BankDB {
     private static final String URL = "jdbc:mysql://localhost:3306/atm_db";
-    private static final String DB_USER = "root";       // change if needed
-    private static final String DB_PASSWORD = "";        // put your MySQL password here
+    private static final String DB_USER = "root";       
+    private static final String DB_PASSWORD = "122626";        
 
     private final Random random = new Random();
 
@@ -44,12 +44,12 @@ class BankDB {
         String accNo;
         String checkSql = "SELECT acc_no FROM accounts WHERE acc_no = ?";
         do {
-            int digits = 100000 + random.nextInt(900000); // always 6 digits
+            int digits = 100000000 + random.nextInt(900000000); 
             accNo = "ACC" + digits;
             try (PreparedStatement ps = con.prepareStatement(checkSql)) {
                 ps.setString(1, accNo);
                 ResultSet rs = ps.executeQuery();
-                if (!rs.next()) break; // unique, exit loop
+                if (!rs.next()) break; 
             }
         } while (true);
         return accNo;
