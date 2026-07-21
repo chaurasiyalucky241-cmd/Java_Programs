@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EE3501,20:FF6A00,40:FFB000,60:F4D03F,80:F39C12,100:EE3501&height=220&section=header&text=JAVA%20PROGRAMS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Learning%20%7C%20Practice%20Repository&descAlignY=60"/>
 
-# ☕ Java Programs
+
 
 ### 💻 Beginner to Advanced Java Programs • 📚 OOP • 🚀 Regular Updates • 🔥 Mini Projects
 
